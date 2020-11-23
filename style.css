@@ -1,0 +1,45 @@
+h1{
+color:brown	
+}
+a{
+color:white;
+font-family:Agency FB;
+font-size:20px;	
+}
+.header{
+display:flex;
+justify-content:space-between;
+}
+.grid{
+display:flex;
+flex-wrap:wrap;
+justify-content:space-evenly;	
+}
+body{
+background-image:url(images/bgimg1.jpg);	
+background-size:cover;
+}
+p{
+color:white;
+font-family:Agency FB;
+font-size:25px
+}
+li{
+color:white;
+font-family:Agency FB;
+font-size:20px;	
+}
+h2,h4{
+color:white;
+font-family:Verdana;	
+}
+h5{
+color:white;	
+}
+img{
+margin-left: 20px;	
+width:200px;
+height:200px;	
+border: solid white;
+border-radius: 15px;
+}
